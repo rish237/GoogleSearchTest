@@ -321,7 +321,7 @@ return buildNumber;
 
 @AfterTest
 public void afterTest() throws InterruptedException {
-	System.out.println("Closing!!!");
+	System.out.println("Closing!!!!!!");
 	
 driver.close();
 }
